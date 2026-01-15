@@ -74,6 +74,6 @@ Com base na análise dos dados, foram identificados três fatores críticos que 
 
 ---
 
-## 👤 Autor
-Desenvolvido por **Gabriela Grisolia**.
+## Autor
+Gabriela Grisolia | Projeto educacional (Hashtag Treinamentos)
 * GitHub: [gabgrisolia](https://github.com/gabgrisolia)
